@@ -1,0 +1,13 @@
+img {
+    max-width: 100%
+}
+body {
+    font-family:fantasy, sans-serif;
+    background-color:yellow;
+    color:blue;
+}
+h1 {
+    font-family:fantasy, sans-serif;
+    background-color:purple;
+    color:green;
+}
